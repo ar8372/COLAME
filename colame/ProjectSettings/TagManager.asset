@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerGreen
+  - PlayerBlue
+  - PlayerRed
+  - Checker Box
+  - BorderBlue
+  - BorderRed
+  - BorderGreen
+  - CrystalBlue
+  - CrystalGreen
+  - CrystalRed
+  - c
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BOTTOM
+  - MIDDLE
+  - TOP
+  - TOP1
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BACK
+    uniqueID: 402135785
+    locked: 0
+  - name: MIDDLE
+    uniqueID: 2709155349
+    locked: 0
+  - name: TOP
+    uniqueID: 4208537199
+    locked: 0
