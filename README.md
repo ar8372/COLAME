@@ -3,5 +3,5 @@ I have created this engaging Unity 3D game that challenges players to navigate a
 ## SCREENSHOTS 
 .                          |  .                        |  .
 :-------------------------:|:-------------------------:|:-------------------------:
-![](resources/2.jpg)  |  ![](resources/6.jpg) |  ![](resources/3.jpg)
-![](resources/4.jpg)  |  ![](resources/5.jpg) |  ![](resources/1.jpg)
+![](resources/2.jpg)  |  ![](resources/5.jpg) |  ![](resources/3.jpg)
+![](resources/4.jpg)  |  ![](resources/6.jpg) |  ![](resources/1.jpg)
